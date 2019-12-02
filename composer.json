@@ -1,43 +1,24 @@
 {
-    "name": "Aisa18/weather",
-    "type": "library",
+    "name" : "Aisa18/weather",
     "description": "Anax weather module.",
-    "keywords": ["boilerplate", "framework", "mvc", "micro", "education"],
-    "homepage": "https://dbwebb.se/anax",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Wissam Sawah",
-            "email": "wesam.sawah@me.com",
-            "homepage": "https://wissamsawah.se",
-            "role": "Developer"
-        }
-    ],
-    "support": {
-        "issues": "https://github.com/WissamSawah/Weather/issues"
-    },
-    "autoload": {
-        "psr-4": {
-            "Anax\\": "src/",
-            "Aisa\\": "src/"
-        }
-    },
     "minimum-stability": "beta",
     "prefer-stable": true,
+    "autoload": {
+        "psr-4": {"Anax\\": "src/",
+                  "Aisa\\": "src/"}
+    },
     "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/WissamSawah/Weather"
-        }
-    ],
+    {
+        "type": "vcs",
+        "url": "https://github.com/WissamSawah/Weather"
+    }
+],
     "require": {
         "anax/anax-ramverk1-me": "^1.0.0",
-        "anax/anax-cli": "^1.1"
+        "anax/remserver": "dev-master"
     },
-
     "require-dev": {
-        "phpmetrics/phpmetrics": "^2",
-        "phpunit/phpunit": "^7",
-        "anax/anax-lite": "^1.0.24"
+        "phpunit/phpunit": "^7"
     }
 }
