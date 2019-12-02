@@ -16,7 +16,7 @@
 ],
     "require": {
         "anax/anax-ramverk1-me": "^1.0.0",
-        "aisa18/weather": "dev-master"
+        "aisa18/weather": "^1.0.0"
 
     },
     "require-dev": {
