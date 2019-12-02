@@ -1,5 +1,5 @@
 {
-    "name" : "aisa18/Weather",
+    "name" : "aisa18/weather",
     "description": "Anax weather module.",
     "license": "MIT",
     "minimum-stability": "beta",
@@ -16,7 +16,7 @@
 ],
     "require": {
         "anax/anax-ramverk1-me": "^1.0.0",
-        "aisa18/Weather": "dev-master"
+        "aisa18/weather": "dev-master"
 
     },
     "require-dev": {
