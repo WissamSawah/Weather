@@ -26,6 +26,18 @@ Install using composer.
 composer require aisa18/weather
 ```
 
+You will have to modify your composer file, by adding the following line to the autoload section under like this.
+
+```
+"autoload": {
+        "psr-4": {"Anax\\": "src/"
+                  "Asia\\": "src/"}
+```
+
+
+"autoload": {
+        "psr-4": {"Anax\\": "src/"}
+
 Install using scaffold postprocessing file
 ------------------------------------
 
