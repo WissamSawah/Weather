@@ -1,6 +1,10 @@
 Revision History
 ===================
 
+v1.0.9
+-------------------
+
+* Aisa/Asia wrong spelled.
 
 
 v1.0.8

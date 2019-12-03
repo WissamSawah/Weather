@@ -31,7 +31,7 @@ You will have to modify your composer file, by adding the following line to the 
 ```
 "autoload": {
         "psr-4": {"Anax\\": "src/"
-                  "Asia\\": "src/"}
+                  "Aisa\\": "src/"}
 ```
 
 Once you have modified the composer file, you will need to do composer Update.
