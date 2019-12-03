@@ -34,9 +34,12 @@ You will have to modify your composer file, by adding the following line to the 
                   "Asia\\": "src/"}
 ```
 
+Once you have modified the composer file, you will need to do composer Update.
 
-"autoload": {
-        "psr-4": {"Anax\\": "src/"}
+```
+composer update
+```
+
 
 Install using scaffold postprocessing file
 ------------------------------------
