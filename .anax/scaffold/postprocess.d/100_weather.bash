@@ -18,5 +18,5 @@ rsync -av vendor/aisa18/weather/src ./
 rsync -av vendor/aisa18/weather/test ./
 
 #copy composer file "I have Aisa instead of ANAX so you will need my composer file incase everything will work"
-
-rsync -av vendor/aisa18/weather/composer.json ./
+# 
+# rsync -av vendor/aisa18/weather/composer.json ./
