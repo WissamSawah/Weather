@@ -3,6 +3,9 @@ Anax Weather Module
 
 [![Build Status](https://travis-ci.org/WissamSawah/Weather.svg?branch=master)](https://travis-ci.org/WissamSawah/Weather)
 
+[![CircleCI](https://circleci.com/gh/WissamSawah/Weather.svg?style=svg)](https://circleci.com/gh/WissamSawah/Weather)
+
+
 You can use this module, together with an Anax installation, to enable a scaffolded Weather report.
 
 
