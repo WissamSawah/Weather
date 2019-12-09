@@ -1,16 +1,13 @@
 Anax Weather Module
 ==================================
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 [![Build Status](https://travis-ci.org/WissamSawah/Weather.svg?branch=master)](https://travis-ci.org/WissamSawah/Weather)
-
 [![CircleCI](https://circleci.com/gh/WissamSawah/Weather.svg?style=svg)](https://circleci.com/gh/WissamSawah/Weather)
-
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/WissamSawah/Weather/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/WissamSawah/Weather/?branch=master)
-
 [![Code Coverage](https://scrutinizer-ci.com/g/WissamSawah/Weather/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/WissamSawah/Weather/?branch=master)
-
 [![Code Intelligence Status](https://scrutinizer-ci.com/g/WissamSawah/Weather/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
-
+[![Build Status](https://scrutinizer-ci.com/g/WissamSawah/Weather/badges/build.png?b=master)](https://scrutinizer-ci.com/g/WissamSawah/Weather/build-status/master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/6107fe631dab120ce854/maintainability)](https://codeclimate.com/github/WissamSawah/Weather/maintainability)
 
 You can use this module, together with an Anax installation, to enable a scaffolded Weather report.
 
