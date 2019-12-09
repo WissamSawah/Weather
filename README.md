@@ -5,6 +5,12 @@ Anax Weather Module
 
 [![CircleCI](https://circleci.com/gh/WissamSawah/Weather.svg?style=svg)](https://circleci.com/gh/WissamSawah/Weather)
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/WissamSawah/Weather/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/WissamSawah/Weather/?branch=master)
+
+[![Code Coverage](https://scrutinizer-ci.com/g/WissamSawah/Weather/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/WissamSawah/Weather/?branch=master)
+
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/WissamSawah/Weather/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
+
 
 You can use this module, together with an Anax installation, to enable a scaffolded Weather report.
 
